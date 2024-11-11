@@ -2,6 +2,8 @@
 I'm a Computer Science graduate from the University of Western Ontario who had experience programming all sorts of things, from robotics to web development, I have always tried to keep a varied perspective!
 
 Web developmnet through svelte and sveltekit using typescript has been my specialty recently but I'm always ready to learn new things and broaden my horizons even further!
+
+I have some experience with Robotics from highschool, which can be found here: https://bitbucket.org/kaleb_dodd/simbot2018public/src/master/
 <!--
 **Arnav-Mehrotra/Arnav-Mehrotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
