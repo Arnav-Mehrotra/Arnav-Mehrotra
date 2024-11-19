@@ -1,4 +1,4 @@
-## Hi! I'm Arnav!
+## Hi! I'm Arnav/Aarna!
 I'm a Computer Science graduate from the University of Western Ontario who had experience programming all sorts of things, from robotics to web development, I have always tried to keep a varied perspective!
 
 Web developmnet through svelte and sveltekit using typescript has been my specialty recently but I'm always ready to learn new things and broaden my horizons even further!
